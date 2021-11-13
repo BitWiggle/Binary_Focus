@@ -12,4 +12,5 @@ In this experiment, the simulated focus of the synthetic consciousness emulates 
 
 # This repository contains:
 1: Freaquency analysis of all binary_focus experiments
+
 2: Psuedocode describing how the experiment was conducted
